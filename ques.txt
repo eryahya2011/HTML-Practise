@@ -1,0 +1,44 @@
+1. *Create a webpage* with a heading and a paragraph introducing yourself.
+
+2. Create a webpage that contains *three images* of your choice, and give each image an *alt* attribute.
+
+3. Make a webpage with *ordered list* showing your daily routine.
+
+4. Make a webpage with *unordered list* of your favorite movies or songs.
+
+5. Create a webpage with a *table* showing your class timetable (at least 4 rows and 4 columns).
+
+6. Create a webpage with a *registration form* containing:
+
+   * Name (text)
+   * Email
+   * Password
+   * Submit button
+
+7. Create a webpage showing *different levels of headings* (h1 to h6) with different text in each.
+
+8. Create a webpage that displays a *quote* using the <blockquote> tag.
+
+9. Make a webpage that displays *bold, italic, and underlined text* in one paragraph.
+
+10. Create a webpage with an *internal link* (ex: click text to go to another section of same page).
+
+11. Create a webpage that uses the **horizontal line <hr>** and **line break <br>** tags properly.
+
+12. Create a webpage that contains a *marquee text* scrolling left to right.
+
+13. Create a webpage with an *image that acts as a hyperlink* (clicking the image opens google.com).
+
+14. Create a webpage with *two paragraphs*, and apply inline color styling to each paragraph.
+
+15. Create a webpage that displays a *YouTube video embedded* using the <iframe> tag.
+
+16. Create a webpage with a *figure and figcaption* for an image.
+
+17. Create a webpage that has a *checkbox list* of your hobbies.
+
+18. Create a webpage with a *dropdown menu* to select your class (6th to 12th).
+
+19. Create a webpage that shows a *simple contact form* using <form> and <input> tags.
+
+20. Create a webpage that uses a *comment* (<!-- -->) explaining what the page is about.
